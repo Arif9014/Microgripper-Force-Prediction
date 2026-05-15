@@ -2,7 +2,7 @@
 An AI-powered simulation of a microgripper, designed to safely handle fragile electronics like optical fibers without crushing them.
 
 ## What is this project?
-This repository contains the design and machine learning code for a tiny, two-armed robotic gripper. This "microgripper" is designed to pick up and assemble microscopic, highly delicate parts—like fiber optic cables and smartphone camera lenses—without damaging them. 
+This repository contains the design and machine learning code for a tiny, two-armed robotic gripper. This "microgripper" is designed to pick up and assemble microscopic, highly delicate parts—like fiber optic cables and smartphone camera lenses without damaging them. 
 
 ## How does it work?
 Traditionally, figuring out exactly how hard a robotic arm needs to squeeze a microscopic object requires slow and complex math simulations that can take up to 15 minutes. 
